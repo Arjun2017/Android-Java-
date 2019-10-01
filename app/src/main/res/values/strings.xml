@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vehicle Reconogition</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a pet</string>
+
+    <string name="editor_activity_title_edit_vehicle">Edit vehicle</string>
+
+    <string name="editor_insert_vehicle_successful">vehicle saved</string>
+
+    <string name="editor_insert_vehicle_failed">Error with saving vehicle</string>
+
+</resources>
